@@ -12,3 +12,14 @@ Datasets/
 	index,csv
 	sample_submission.csv
 	test.csv
+
+Also create an Empty folder structure as follows:
+
+Images/
+	index
+	test
+
+To download the images run:
+
+			python download_images.py 'Datasets/index.csv' 'Images/index/'
+
