@@ -4,10 +4,10 @@ import sys, os, multiprocessing, urllib2, csv
 from PIL import Image
 from StringIO import StringIO
 
-compression = 90
+compression = 80
 
 # -1 is all
-total_i2d = 1000
+total_i2d = -1
 
 def ParseData(data_file):
   csvfile = open(data_file, 'r')
