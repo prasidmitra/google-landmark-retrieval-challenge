@@ -1,0 +1,3 @@
+/home/kbg/Project/google-landmark-retrieval-challenge/CMakeFiles/rebuild_cache.dir
+/home/kbg/Project/google-landmark-retrieval-challenge/CMakeFiles/DisplayImage.dir
+/home/kbg/Project/google-landmark-retrieval-challenge/CMakeFiles/edit_cache.dir

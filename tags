@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/ec7b6475/
+DownloadImage	download_images.py	/^def DownloadImage(key_url):$/;"	f
+ParseData	download_images.py	/^def ParseData(data_file):$/;"	f
+Run	download_images.py	/^def Run():$/;"	f
+compression	download_images.py	/^compression = 80$/;"	v
+download_image	download_images_smaller.py	/^def download_image(key_url, img_dims=(256,256)):$/;"	f
+loader	download_images_smaller.py	/^def loader():$/;"	f
+main	indexdescriptors.cpp	/^int main(int argc, char** argv) {$/;"	f	typeref:typename:int
+parse_data	download_images_smaller.py	/^def parse_data(data_file):$/;"	f
+total_i2d	download_images.py	/^total_i2d = -1$/;"	v
