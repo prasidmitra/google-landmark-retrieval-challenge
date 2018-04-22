@@ -5,7 +5,7 @@ from sklearn.neighbors import NearestNeighbors
 
 
 query_images = [] # list of images like index images
-index_descriptors = {} #dictionary of images
+index_descriptors = {} #dictionary of index images
 d = 5 #no of reduced dimensions     
 k = 50 #no of clusters   
 
